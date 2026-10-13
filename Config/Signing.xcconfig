@@ -1,0 +1,2 @@
+// Optional local signing settings, shared by app and test targets.
+#include? "Signing.local.xcconfig"

@@ -1,0 +1,35 @@
+{
+  "fill": {
+    "automatic-gradient": "extended-srgb:0.16078,0.23529,0.62745,1.00000"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "fill": "none",
+          "glass": true,
+          "image-name": "waveform.svg",
+          "name": "Waveform"
+        },
+        {
+          "fill": "none",
+          "glass": true,
+          "image-name": "transcript.svg",
+          "name": "Transcript lines",
+          "opacity": 0.8
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": "shared"
+  }
+}
